@@ -1,0 +1,4 @@
+opencv-python
+pandas
+tensorflow==1.15
+tensorflow_hub==0.11
